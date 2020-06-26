@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/gonghe/微云同步助手(296469553)/我的电脑/Gomader/jjl/毕设/Final-Project/IM/app/src/main/shaders"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/gonghe/微云同步助手(296469553)/我的电脑/Gomader/jjl/毕设/Final-Project/IM/app/src/debug/shaders"/></dataSet></merger>
